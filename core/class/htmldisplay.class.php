@@ -22,7 +22,7 @@ require_once __DIR__  . '/../../../../core/php/core.inc.php';
 class htmldisplay extends eqLogic {
   /*     * *************************Attributs****************************** */
 
- protected $_widgetPossibility = array('custom' => true);
+ protected static $_widgetPossibility = array('custom' => true);
 
   /*     * ***********************Methode static*************************** */
 
