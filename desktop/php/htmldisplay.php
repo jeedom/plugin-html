@@ -99,7 +99,8 @@ $eqLogics = eqLogic::byType($plugin->getId());
 						<div class="form-group">
 							<label class="col-sm-3 control-label"></label>
 							<div class="col-sm-9">
-								<label class="checkbox-inline"><input type="checkbox" class="eqLogicAttr" data-l1key="configuration" data-l2key="showtitle"/>{{Afficher le titre}}</label>
+								<label class="checkbox-inline"><input type="checkbox" class="eqLogicAttr" data-l1key="configuration" data-l2key="showtitle"/>{{Afficher le titre en version Dashboard}}</label>
+								<label class="checkbox-inline"><input type="checkbox" class="eqLogicAttr" data-l1key="configuration" data-l2key="showtitlemobile"/>{{Afficher le titre en version Mobile}}</label>
 							</div>
 						</div>
 					</fieldset>
