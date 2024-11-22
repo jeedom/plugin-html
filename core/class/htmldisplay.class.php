@@ -61,7 +61,10 @@ class htmldisplay extends eqLogic {
         $html .= '<span class="reportModeVisible">#name_display# <span class="object_name">#object_name#</span></span>';
         $html .= '<a href="#eqLink#" class="reportModeHidden">#name_display# <span class="object_name">#object_name#</span></a>';
         $html .= '</center>';
-      } else if ($_version == 'mobile') {
+      }
+    }
+    if ($this->getConfiguration('showtitlemobile', 0) == 1) {
+      if ($_version == 'mobile') {
         $html .= '<center>';
         $html .= '<span class="widget-name">';
         $html .= '<span class="warning" title="#alert_name#">';
