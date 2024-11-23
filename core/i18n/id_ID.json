@@ -19,7 +19,8 @@
         "Catégorie": "Kategori",
         "Activer": "Mengaktifkan",
         "Visible": "Terlihat",
-        "Afficher le titre": "Afficher le titre"
+        "Afficher le titre en version Dashboard": "Afficher le titre en version Dashboard",
+        "Afficher le titre en version Mobile": "Afficher le titre en version Mobile"
     },
     "plugins\/htmldisplay\/core\/ajax\/htmldisplay.ajax.php": {
         "401 - Accès non autorisé": "401 - Akses tidak sah",

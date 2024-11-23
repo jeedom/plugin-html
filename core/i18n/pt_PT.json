@@ -19,7 +19,8 @@
         "Catégorie": "Categoria",
         "Activer": "Ativar",
         "Visible": "Visivél",
-        "Afficher le titre": "Mostrar título"
+        "Afficher le titre en version Dashboard": "Exibir o título na versão Dashboard",
+        "Afficher le titre en version Mobile": "Mostrar título na versão Mobile"
     },
     "plugins\/htmldisplay\/core\/ajax\/htmldisplay.ajax.php": {
         "401 - Accès non autorisé": "401 - Acesso não autorizado",
