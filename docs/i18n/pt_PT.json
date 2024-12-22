@@ -2,6 +2,8 @@
     "changelog.md": {
         "Changelog HTML Display": "Exibir HTML do registro de alterações",
         "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Como lembrete, se não houver informações sobre a atualização, isso significa que se trata apenas da atualização da documentação, tradução ou texto",
+        "08\/01\/2024": "01\/08\/2024",
+        "Préparation pour jeedom 4.4": "Preparando-se para Jeedom 4.4",
         "21\/09\/2021": "21\/09\/2021",
         "Correction d'un soucis d'affichage avec les utilisateurs limités": "Corrigido o problema de exibição com usuários limitados",
         "19\/11\/2020": "19\/11\/2020",
